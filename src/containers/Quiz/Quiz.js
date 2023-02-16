@@ -1,6 +1,6 @@
 import React from "react";
 import classes from './Quiz.module.css';
-import ActiveQuiz from "../components/ActiveQuiz/ActiveQuiz";
+import ActiveQuiz from "../../components/ActiveQuiz/ActiveQuiz";
 
 class Quiz extends React.Component {
     state = {
